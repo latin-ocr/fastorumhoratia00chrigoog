@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fastorumhoratia00chrigoog_0035.png"; bbox 0 0 4914 6454; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 882 3035 1456 3090">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 882 3035 1456 3090">
+     <span class='ocr_line' id='line_1_1' title="bbox 882 3035 1456 3090; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 882 3041 999 3090; x_wconf 48' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_2' title='bbox 1056 3035 1456 3088; x_wconf 42' lang='lat' dir='ltr'><strong>&#39;fimf-R</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 766 3139 1578 3197">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 766 3139 1578 3197">
+     <span class='ocr_line' id='line_1_2' title="bbox 766 3139 1578 3197; baseline -0.004 -14"><span class='ocrx_word' id='word_1_3' title='bbox 766 3149 851 3197; x_wconf 50' lang='lat' dir='ltr'><em>Cris-</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 878 3143 991 3192; x_wconf 68' lang='lat' dir='ltr'>Annum</span> <span class='ocrx_word' id='word_1_5' title='bbox 1004 3141 1180 3192; x_wconf 66' lang='lat' dir='ltr'><strong>vindelicorum,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1193 3141 1296 3194; x_wconf 65' lang='lat' dir='ltr'><strong>mm.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1312 3139 1336 3182; x_wconf 81' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1349 3139 1463 3181; x_wconf 62' lang='lat' dir='ltr'><strong>Binum.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1496 3143 1578 3190; x_wconf 49' lang='lat'><strong>&amp;3</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 995 3251 1349 3351">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 995 3251 1349 3351">
+     <span class='ocr_line' id='line_1_3' title="bbox 995 3251 1349 3351; baseline -0.02 1"><span class='ocrx_word' id='word_1_10' title='bbox 995 3251 1349 3351; x_wconf 52' lang='lat'><strong>&lt;19</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2462 6452">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2462 6452">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2462 6452; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2462 6452; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
